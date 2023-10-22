@@ -1,0 +1,128 @@
+/* bloody rose Color Palette https://www.color-hex.com/color-palette/1025262 */
+
+#def {
+    -fx-background-color:  #d42929;
+    background-color: #d42929;
+    -fx-border-color:  #4f0808;
+    border-color: #4f0808;
+    -fx-divider-color: #4f0808;
+}
+
+#invalidUsername {
+    -fx-background-color:  #000000;
+    background-color: #000000;
+    -fx-border-color:  #4f0808;
+    border-color: #4f0808;
+}
+
+#downloadFileGUI {
+    -fx-background-color:  #000000;
+    background-color: #000000;
+    -fx-border-color:  #4f0808;
+    border-color: #4f0808;
+}
+
+#downloadPane {
+    -fx-background-color:  #000000;
+    background-color: #000000;
+    -fx-border-color:  #4f0808;
+    border-color: #4f0808;
+}
+
+#mainPane {
+    -fx-background-color:  #000000;
+    background-color: #000000;
+    -fx-border-color:  #4f0808;
+    border-color: #4f0808;
+}
+
+#startGUIPlane {
+    -fx-background-color:  #000000;
+    background-color: #000000;
+    -fx-border-color:  #4f0808;
+    border-color: #4f0808;
+}
+
+#uploadPane {
+    -fx-background-color:  #000000;
+    background-color: #000000;
+    -fx-border-color:  #4f0808;
+    border-color: #4f0808;
+}
+
+.text-field {
+    -fx-font-family: "Times New Roman";
+    font-family: "Times New Roman";
+}
+
+.text-area {
+    -fx-font-family: "Times New Roman";
+    font-family: "Times New Roman";
+}
+
+.list-view {
+    -fx-font-family: "Times New Roman";
+    font-family: "Times New Roman";
+}
+
+.button {
+    -fx-background-color:  #d42929;
+    background-color: #d42929;
+    -fx-border-color:  #4f0808;
+    border-color: #4f0808;
+    -fx-font-family: "Sitka Text";
+    font-family: "Sitka Text";
+    -fx-font-size: 12px;
+    font-size: 12px;
+    -fx-text-fill: #4f0808;
+}
+
+.label {
+    -fx-font-family: "Sitka Text";
+    font-family: "Sitka Text";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #9f1111;
+}
+
+.progress-bar .bar {
+    -fx-background-color: #d42929;
+    background-color: #d42929;
+}
+
+.table-view {
+    -fx-background-color: #d42929;
+    background-color: #d42929;
+    -fx-border-color: #4f0808;
+    border-color: #4f0808;
+    -fx-border-width: 1px;
+    border-width: 1px;
+    -fx-border-radius: 3px;
+    border-radius: 3px;
+
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #4f0808;
+    background-color: #4f0808;
+    -fx-text-fill: #4f0808;
+}
+
+.table-view .column-header, .table-view .table-cell {
+    -fx-background-color: #d42929;
+    background-color: #d42929;
+    -fx-alignment: center-left;
+
+    
+    -fx-font-family: "Sitka Text";
+    font-family: "Sitka Text";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #9f1111;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #d42929;
+    background-color: #d42929;
+    -fx-text-fill: #9f1111;
+}

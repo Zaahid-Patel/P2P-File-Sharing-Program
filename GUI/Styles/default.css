@@ -1,0 +1,127 @@
+/* PAGNOTA Color Palette https://www.color-hex.com/color-palette/1025378 */
+#def {
+    -fx-background-color:  #2a2a2a;
+    background-color: #2a2a2a;
+    -fx-border-color:  #ffaf2f;
+    border-color: #ffaf2f;
+    -fx-divider-color: #ffaf2f;
+}
+
+#invalidUsername {
+    -fx-background-color:  #271043;
+    background-color: #271043;
+    -fx-border-color:  #ffaf2f;
+    border-color: #ffaf2f;
+}
+
+#downloadFileGUI {
+    -fx-background-color:  #271043;
+    background-color: #271043;
+    -fx-border-color:  #ffaf2f;
+    border-color: #ffaf2f;
+}
+
+#downloadPane {
+    -fx-background-color:  #271043;
+    background-color: #271043;
+    -fx-border-color:  #ffaf2f;
+    border-color: #ffaf2f;
+}
+
+#mainPane {
+    -fx-background-color:  #271043;
+    background-color: #271043;
+    -fx-border-color:  #ffaf2f;
+    border-color: #ffaf2f;
+}
+
+#startGUIPlane {
+    -fx-background-color:  #271043;
+    background-color: #271043;
+    -fx-border-color:  #ffaf2f;
+    border-color: #ffaf2f;
+}
+
+#uploadPane {
+    -fx-background-color:  #271043;
+    background-color: #271043;
+    -fx-border-color:  #ffaf2f;
+    border-color: #ffaf2f;
+}
+
+.text-field {
+    -fx-font-family: "Monospaced";
+    font-family: "Monospaced";
+}
+
+.text-area {
+    -fx-font-family: "Monospaced";
+    font-family: "Monospaced";
+}
+
+.list-view {
+    -fx-font-family: "Monospaced";
+    font-family: "Monospaced";
+}
+
+.button {
+    -fx-background-color:  #2a2a2a;
+    background-color: #2a2a2a;
+    -fx-border-color:  #ffaf2f;
+    border-color: #ffaf2f;
+    -fx-font-family: "Impact";
+    font-family: "Impact";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #ffaf2f;
+}
+
+.label {
+    -fx-font-family: "Impact";
+    font-family: "Impact";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #f3f6f4;
+}
+
+.progress-bar .bar {
+    -fx-background-color: #ffaf2f;
+    background-color: #ffaf2f;
+}
+
+.table-view {
+    -fx-background-color: #2a2a2a;
+    background-color: #2a2a2a;
+    -fx-border-color: #ffaf2f;
+    border-color: #ffaf2f;
+    -fx-border-width: 1px;
+    border-width: 1px;
+    -fx-border-radius: 3px;
+    border-radius: 3px;
+
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #ffaf2f;
+    background-color: #ffaf2f;
+    -fx-text-fill: #f3f6f4;
+}
+
+.table-view .column-header, .table-view .table-cell {
+    -fx-background-color: #2a2a2a;
+    background-color: #2a2a2a;
+    -fx-alignment: center-left;
+
+    
+    -fx-font-family: "Impact";
+    font-family: "Impact";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #f3f6f4;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #ffaf2f;
+    background-color: #ffaf2f;
+    -fx-text-fill: #f3f6f4;
+}

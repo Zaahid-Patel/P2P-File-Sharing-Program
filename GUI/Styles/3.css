@@ -1,0 +1,127 @@
+/* Strawberry Lemon Color Palette https://www.color-hex.com/color-palette/1025651 */
+#def {
+    -fx-background-color:  #c4d183;
+    background-color: #c4d183;
+    -fx-border-color:  #e15f59;
+    border-color: #e15f59;
+    -fx-divider-color: #e15f59;
+}
+
+#invalidUsername {
+    -fx-background-color:  #fefefe;
+    background-color: #fefefe;
+    -fx-border-color:  #e15f59;
+    border-color: #e15f59;
+}
+
+#downloadFileGUI {
+    -fx-background-color:  #fefefe;
+    background-color: #fefefe;
+    -fx-border-color:  #e15f59;
+    border-color: #e15f59;
+}
+
+#downloadPane {
+    -fx-background-color:  #fefefe;
+    background-color: #fefefe;
+    -fx-border-color:  #e15f59;
+    border-color: #e15f59;
+}
+
+#mainPane {
+    -fx-background-color:  #fefefe;
+    background-color: #fefefe;
+    -fx-border-color:  #e15f59;
+    border-color: #e15f59;
+}
+
+#startGUIPlane {
+    -fx-background-color:  #fefefe;
+    background-color: #fefefe;
+    -fx-border-color:  #e15f59;
+    border-color: #e15f59;
+}
+
+#uploadPane {
+    -fx-background-color:  #fefefe;
+    background-color: #fefefe;
+    -fx-border-color:  #e15f59;
+    border-color: #e15f59;
+}
+
+.text-field {
+    -fx-font-family: "Bradley Hand ITC";
+    font-family: "Bradley Hand ITC";
+}
+
+.text-area {
+    -fx-font-family: "Bradley Hand ITC";
+    font-family: "Bradley Hand ITC";
+}
+
+.list-view {
+    -fx-font-family: "Bradley Hand ITC";
+    font-family: "Bradley Hand ITC";
+}
+
+.button {
+    -fx-background-color:  #c4d183;
+    background-color: #c4d183;
+    -fx-border-color:  #e15f59;
+    border-color: #e15f59;
+    -fx-font-family: "Bernard MT Condensed";
+    font-family: "Bernard MT Condensed";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #e15f59;
+}
+
+.label {
+    -fx-font-family: "Bernard MT Condensed";
+    font-family: "Bernard MT Condensed";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #f9e27b;
+}
+
+.progress-bar .bar {
+    -fx-background-color: #e15f59;
+    background-color: #e15f59;
+}
+
+.table-view {
+    -fx-background-color: #c4d183;
+    background-color: #c4d183;
+    -fx-border-color: #e15f59;
+    border-color: #e15f59;
+    -fx-border-width: 1px;
+    border-width: 1px;
+    -fx-border-radius: 3px;
+    border-radius: 3px;
+
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #e15f59;
+    background-color: #e15f59;
+    -fx-text-fill: #f9e27b;
+}
+
+.table-view .column-header, .table-view .table-cell {
+    -fx-background-color: #c4d183;
+    background-color: #c4d183;
+    -fx-alignment: center-left;
+
+    
+    -fx-font-family: "Bernard MT Condensed";
+    font-family: "Bernard MT Condensed";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #f9e27b;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #e15f59;
+    background-color: #e15f59;
+    -fx-text-fill: #f9e27b;
+}

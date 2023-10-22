@@ -1,0 +1,127 @@
+/* Spring Affair Color Palette https://www.color-hex.com/color-palette/1025689 */
+#def {
+    -fx-background-color:  #1c5506;
+    background-color: #1c5506;
+    -fx-border-color:  #955cc6;
+    border-color: #955cc6;
+    -fx-divider-color: #955cc6;
+}
+
+#invalidUsername {
+    -fx-background-color:  #568217;
+    background-color: #568217;
+    -fx-border-color:  #955cc6;
+    border-color: #955cc6;
+}
+
+#downloadFileGUI {
+    -fx-background-color:  #568217;
+    background-color: #568217;
+    -fx-border-color:  #955cc6;
+    border-color: #955cc6;
+}
+
+#downloadPane {
+    -fx-background-color:  #568217;
+    background-color: #568217;
+    -fx-border-color:  #955cc6;
+    border-color: #955cc6;
+}
+
+#mainPane {
+    -fx-background-color:  #568217;
+    background-color: #568217;
+    -fx-border-color:  #955cc6;
+    border-color: #955cc6;
+}
+
+#startGUIPlane {
+    -fx-background-color:  #568217;
+    background-color: #568217;
+    -fx-border-color:  #955cc6;
+    border-color: #955cc6;
+}
+
+#uploadPane {
+    -fx-background-color:  #568217;
+    background-color: #568217;
+    -fx-border-color:  #955cc6;
+    border-color: #955cc6;
+}
+
+.text-field {
+    -fx-font-family: "Bell MT";
+    font-family: "Bell MT";
+}
+
+.text-area {
+    -fx-font-family: "Bell MT";
+    font-family: "Bell MT";
+}
+
+.list-view {
+    -fx-font-family: "Bell MT";
+    font-family: "Bell MT";
+}
+
+.button {
+    -fx-background-color:  #1c5506;
+    background-color: #1c5506;
+    -fx-border-color:  #955cc6;
+    border-color: #955cc6;
+    -fx-font-family: "Algerian";
+    font-family: "Algerian";
+    -fx-font-size: 10px;
+    font-size: 10px;
+    -fx-text-fill: #955cc6;
+}
+
+.label {
+    -fx-font-family: "Algerian";
+    font-family: "Algerian";
+    -fx-font-size: 12px;
+    font-size: 12px;
+    -fx-text-fill: #cbb3da;
+}
+
+.progress-bar .bar {
+    -fx-background-color: #955cc6;
+    background-color: #955cc6;
+}
+
+.table-view {
+    -fx-background-color: #1c5506;
+    background-color: #1c5506;
+    -fx-border-color: #955cc6;
+    border-color: #955cc6;
+    -fx-border-width: 1px;
+    border-width: 1px;
+    -fx-border-radius: 3px;
+    border-radius: 3px;
+
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #955cc6;
+    background-color: #955cc6;
+    -fx-text-fill: #cbb3da;
+}
+
+.table-view .column-header, .table-view .table-cell {
+    -fx-background-color: #1c5506;
+    background-color: #1c5506;
+    -fx-alignment: center-left;
+
+    
+    -fx-font-family: "Algerian";
+    font-family: "Algerian";
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-text-fill: #cbb3da;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #955cc6;
+    background-color: #955cc6;
+    -fx-text-fill: #cbb3da;
+}

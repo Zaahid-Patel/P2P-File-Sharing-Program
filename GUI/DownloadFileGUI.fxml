@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="downloadFileGUI" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="100.0" prefWidth="270.0" stylesheets="@Styles/default.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.DownloadFileGUIController">
+   <children>
+      <Pane id="def" layoutX="8.0" layoutY="4.0" prefHeight="54.0" prefWidth="252.0">
+         <children>
+            <ProgressBar fx:id="downloadBar" layoutX="14.0" layoutY="23.0" prefHeight="23.0" prefWidth="229.0" progress="0.0" />
+            <Label fx:id="downloadText" layoutX="14.0" layoutY="6.0" text="Label" />
+         </children>
+      </Pane>
+      <Pane layoutX="8.0" layoutY="62.0" prefHeight="38.0" prefWidth="252.0">
+         <children>
+            <Button fx:id="downloadPause" layoutY="5.0" mnemonicParsing="false" onAction="#pauseDownload" text="Pause" />
+            <Button fx:id="downloadPlay" layoutX="92.0" layoutY="5.0" mnemonicParsing="false" onAction="#resumeDownload" text="Resume" />
+            <Button fx:id="downloadCancel" layoutX="191.0" layoutY="5.0" mnemonicParsing="false" onAction="#cancelDownload" text="Cancel" />
+         </children>
+      </Pane>
+   </children>
+</Pane>
